@@ -8,7 +8,7 @@ rancher password - 6kkEgKClli3IJntR
 
 docker rm 1e2b96a82331
 
-Gv5ILs3vvqeojE0F
+Gv5ILs3vvqeoj
 
 
 kubectl create clusterrolebinding cluster-admin-binding --clusterrole cluster-admin --user 9390991113sai@gmail.com
