@@ -1,0 +1,7 @@
+target_mapping:
+  "demo":
+    - "master"
+    - "node"
+    - "controlplane"
+    - "etcd"
+    - "policies"
